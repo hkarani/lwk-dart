@@ -10,4 +10,4 @@ precompiled_binaries:
   # Uri prefix used when downloading precompiled binaries.
   url_prefix: https://github.com/SatoshiPortal/lwk-dart/releases/download/precompiled_
   # Public key for verifying downloaded precompiled binaries.
-  public_key: 496885349368a850fa21668c1d0af5f9aa0748415be20a11545695383ef7851b
+  public_key: 5669818b4d625660315a8187140d420665a3f71b45ac1224f65e5c2ea11e0fbb
